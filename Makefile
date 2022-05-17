@@ -15,7 +15,7 @@ USES=		meson pkgconfig
 USE_GITHUB=     nodefault
 GH_ACCOUNT=     Samsung
 GH_PROJECT=     thorvg
-GH_TAGNAME=	47075bb3e69a3f56e07ed42283169b5915859d7f
+GH_TAGNAME=	0e8cd1e525304afb45a692c560f7ea78ce6eb592
 
 WRKSRC=	${WRKDIR}/thorvg-${GH_TAGNAME}
 
