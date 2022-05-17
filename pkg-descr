@@ -1,0 +1,13 @@
+ThorVG is a platform-independent portable library for drawing vector-based
+scenes and animation. It's open-source software that is freely used by a
+variety of software platforms and applications. ThorVG provides neat and easy
+APIs. Its library has no dependencies and keeps a super compact size. It serves
+as the vector graphics engine for Tizen OS that powers many products.
+
+The following list shows primitives that are supported by ThorVG:
+- Shapes: Line, Arc, Curve, Path, Polygon, ...
+- Filling: Solid, Linear and Radial Gradient
+- Scene Graph & Affine Transformation (translation, rotation, scale, ...)
+- Stroking: Width, Join, Cap, Dash - Composition: Blending, Masking,
+	Path Clipping, ...
+- Pictures: TVG, SVG, JPG, PNG, Bitmap
