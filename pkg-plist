@@ -1,5 +1,6 @@
 include/thorvg.h
+include/thorvg_lottie.h
 lib/libthorvg.so
 lib/libthorvg.so.0
-lib/libthorvg.so.0.9.99
+lib/libthorvg.so.0.14.99
 libdata/pkgconfig/thorvg.pc
